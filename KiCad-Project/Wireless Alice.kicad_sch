@@ -69,6 +69,12 @@
     (path "/c684fe51-2b15-4f85-8bf4-a56928424200/06600ee5-199a-4267-8fdf-0c09cfe6dab5"
       (reference "#PWR03") (unit 1) (value "GND") (footprint "")
     )
+    (path "/c684fe51-2b15-4f85-8bf4-a56928424200/65c4831f-ad1f-4487-ba13-abf6d57faeda"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c684fe51-2b15-4f85-8bf4-a56928424200/78621789-cc26-40e9-bced-af797a3e5a85"
+      (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
+    )
     (path "/c684fe51-2b15-4f85-8bf4-a56928424200/62f977d2-7fd0-4aee-8978-162382db727a"
       (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
@@ -137,6 +143,9 @@
     )
     (path "/c684fe51-2b15-4f85-8bf4-a56928424200/622fbc5a-40c1-4305-b88c-f1272ba02ea4"
       (reference "#PWR0125") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/c684fe51-2b15-4f85-8bf4-a56928424200/32466d7f-e3ac-40cd-9e40-b29aaecd53fe"
+      (reference "#PWR0126") (unit 1) (value "GND") (footprint "")
     )
     (path "/c684fe51-2b15-4f85-8bf4-a56928424200/738f9a0b-5d93-4dac-9f84-d630cb72f5ff"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -374,6 +383,15 @@
     )
     (path "/c684fe51-2b15-4f85-8bf4-a56928424200/1fa0613d-4523-48bb-8b4b-0199113032ac"
       (reference "D67") (unit 1) (value "LED_Small") (footprint "LED_SMD:LED_0603_1608Metric")
+    )
+    (path "/c684fe51-2b15-4f85-8bf4-a56928424200/a0db2748-dd69-4124-8d57-ff221c54cd6e"
+      (reference "D68") (unit 1) (value "LED_Small") (footprint "LED_THT:LED_D3.0mm")
+    )
+    (path "/c684fe51-2b15-4f85-8bf4-a56928424200/578b71e1-0841-4f4e-8799-9059dc0ed342"
+      (reference "D69") (unit 1) (value "LED_Small") (footprint "LED_THT:LED_D3.0mm")
+    )
+    (path "/c684fe51-2b15-4f85-8bf4-a56928424200/d5ed437f-012b-4f38-92d4-126445483152"
+      (reference "D70") (unit 1) (value "LED_Small") (footprint "LED_THT:LED_D3.0mm")
     )
     (path "/c684fe51-2b15-4f85-8bf4-a56928424200/33827caf-cd85-42a2-b654-dd516da11780"
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_0603_1608Metric")
@@ -641,6 +659,15 @@
     )
     (path "/c684fe51-2b15-4f85-8bf4-a56928424200/c98d4056-65b5-42c8-92ff-b0f5c76143b8"
       (reference "R10") (unit 1) (value "5k1") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/c684fe51-2b15-4f85-8bf4-a56928424200/8416ec12-3a7e-4235-8a74-4188f6803816"
+      (reference "R11") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/c684fe51-2b15-4f85-8bf4-a56928424200/c34c7ee7-712c-4439-81ed-658fd5675e58"
+      (reference "R12") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/c684fe51-2b15-4f85-8bf4-a56928424200/cc2a8b4b-da5b-444d-b917-8330168911cf"
+      (reference "R13") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/c684fe51-2b15-4f85-8bf4-a56928424200/1c9209fc-3ed8-40d4-ac2f-10230580f20f"
       (reference "U1") (unit 1) (value "nRF52840_moko_mk08") (footprint "marbastlib-various:nRF52840_moko_mk08")
